@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+  <Document>
+    <name>fonexpress</name>
+    <description>
+      <![CDATA[fonexpress maneno yote (plain text version)]]>
+    </description>
+    <Placemark>
+      <name>fonexpress City Hall</name>
+      <Snippet>Haile Selassie,	Haileselassie Avenue,	KU Plaza	,Nairobi	,Nairobi</Snippet>
+      <description>
+        <![CDATA[<div dir="ltr">fonexpress City Hall<br>2 Haileselassie Avenue<br>City Centre, Nairobi<br>(+254)20300117<br>(+254)72274000<br>www.fonexpress.net</div>]]>
+      </description>
+      <Point>
+        <coordinates>36.804171, -1.258863, ,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fonexpress Nakumatt Moi Avenue</name>
+      <Snippet>Development House, Tom Mboya St, Nairobi, Kenya</Snippet>
+      <description>
+        <![CDATA[<div dir="ltr">Development House <br> Nakumatt<br>Moi Avenue<br>(+254)20300117<br>(+254)72274000<br>www.fonexpress.net</div>]]>
+      </description>
+      <Point>
+        <coordinates>36.827188,-1.285636,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fonexpress service centre</name>
+      <Snippet>Armee Arcade, Westlands, Nairobi, Kenya</Snippet>
+      <description>
+        <![CDATA[<div dir="ltr">Armee Arcade <br> Second Floor<br>westlands<br>(+254)20300117<br>(+254)72274000<br>www.fonexpress.net</div>]]>
+      </description>
+      <Point>
+        <coordinates>36.802032,-1.248223,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fonexpress Moktar</name>
+      <Snippet>Moktar Daddah Street, Nairobi, Kenya</Snippet>
+      <description>
+        <![CDATA[<div dir="ltr">Moktar Daddah Street
+          Nairobi <br>(+254)20300117<br>(+254)72274000<br>www.fonexpress.net</div>]]>
+      </description>
+      <Point>
+        <coordinates>36.818511,-1.260579,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>‎
+      <name>Fonexpress Nakumatt Ronald Ngala</name>
+      <Snippet>Nakumatt, Ronald Ngala Street, Nairobi, Kenya</Snippet>
+      <description>
+        <![CDATA[<div dir="ltr">Nakumatt, Ronald Ngala Street, Nairobi, Kenya<br>(+254)20300117<br>(+254)72274000<br>www.fonexpress.net</div>]]>
+      </description>
+      <Point>
+        <coordinates>36.831558,-1.262639,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>i ‎
+      <name>IT Shop Westgate</name>
+      <Snippet>Mwanzi Road, West Gate Shopping, Nairobi</Snippet>
+      <description>
+        <![CDATA[<div dir="ltr">Mwanzi Road, West Gate Shopping, Nairobi<br>(+254)20300117<br>(+254)72274000<br>www.fonexpress.net</div>]]>
+      </description>
+      <Point>
+        <coordinates>36.804092,-1.231747,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>‎
+      <name>Fonexpress Highridge</name>
+      <Snippet>Parklands, Nairobi Nairobi, Kenya</Snippet>
+      <description>
+        <![CDATA[<div dir="ltr">Parklands, Nairobi <br>(+254)20300117<br>(+254)72274000<br>www.fonexpress.net</div>]]>
+      </description>
+      <Point>
+        <coordinates>36.822631,-1.234493,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>‎
+      <name>Fonexpress karen</name>
+      <Snippet>Karen shopping centre Nairobi, Kenya</Snippet>
+      <description>
+        <![CDATA[<div dir="ltr">Karen shopping centre Nairobi <br>(+254)20300117<br>(+254)72274000<br>www.fonexpress.net</div>]]>
+      </description>
+      <Point>
+        <coordinates>36.705612,-1.31687,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>‎
+      <name>Fonexpress Lifestyle</name>
+      <Snippet>wabera street Nairobi, Kenya</Snippet>
+      <description>
+        <![CDATA[<div dir="ltr">Fonexpress Lifestyle ,Monrovia Street, Nairobi  <br>(+254)20300117<br>(+254)72274000<br>www.fonexpress.net</div>]]>
+      </description>
+      <Point>
+        <coordinates>36.818263,-1.28127,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>‎
+      <name>Fonexpress Galleria</name>
+      <Snippet>Galleria Mall, Kenya</Snippet>
+      <description>
+        <![CDATA[<div dir="ltr">Galleria Mall, Langata Magadi Road Junction <br>(+254)20300117<br>(+254)72274000<br>www.fonexpress.net</div>]]>
+      </description>
+      <Point>
+        <coordinates>36.766207,-1.342763,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>‎
+      <name>Fonexpress junction</name>
+      <Snippet>The Junction mall Nairobi, Kenya</Snippet>
+      <description>
+        <![CDATA[<div dir="ltr">The Junction Mall, Ngong road nairobi <br>(+254)20300117<br>(+254)72274000<br>www.fonexpress.net</div>]]>
+      </description>
+      <Point>
+        <coordinates>36.762645,-1.297767,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>‎
+      <name>Fonexpress Mega</name>
+      <Snippet>Nakumatt Mega Nairobi, Kenya</Snippet>
+      <description>
+        <![CDATA[<div dir="ltr">Nakumatt Mega, Uhuru Highway ,nairobi <br>(+254)20300117<br>(+254)72274000<br>www.fonexpress.net</div>]]>
+      </description>
+      <Point>
+        <coordinates>36.82602,-1.302851,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>‎
+      <name>Fonexpress Prestige Plaza</name>
+      <Snippet>Prestige Plaza Nairobi, Kenya</Snippet>
+      <description>
+        <![CDATA[<div dir="ltr">Ngong Road	Prestige Plaza (nakumatt) <br>(+254)20300117<br>(+254)72274000<br>www.fonexpress.net</div>]]>
+      </description>
+      <Point>
+        <coordinates>36.787021,-1.300095,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>‎
+      <name>Fonexpress Thika road</name>
+      <Snippet>Thika road mall,</Snippet>
+      <description>
+        <![CDATA[<div dir="ltr">Thika Road Mall,Thika road <br>(+254)20300117<br>(+254)72274000<br>www.fonexpress.net</div>]]>
+      </description>
+      <Point>
+        <coordinates>36.888827,-1.219476,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>‎
+      <name>Fonexpress Ukay</name>
+      <Snippet>fonexpress Ukay,</Snippet>
+      <description>
+        <![CDATA[<div dir="ltr">Ukay centre,ringsroad,parklands <br>(+254)20300117<br>(+254)72274000<br>www.fonexpress.net</div>]]>
+      </description>
+      <Point>
+        <coordinates>36.804755,-1.258627,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>‎
+      <name>Fonexpress village</name>
+      <Snippet>fonexpress village market,</Snippet>
+      <description>
+        <![CDATA[<div dir="ltr">Village market,Muthaiga,limuru road <br>(+254)20300117<br>(+254)72274000<br>www.fonexpress.net</div>]]>
+      </description>
+      <Point>
+        <coordinates>36.805473,-1.226856,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>‎
+      <name>Fonexpress wendani</name>
+      <Snippet>Gitu Kahigeri Road,</Snippet>
+      <description>
+        <![CDATA[<div dir="ltr">wendani,Gitu Kahigeri Road <br>(+254)20300117<br>(+254)72274000<br>www.fonexpress.net</div>]]>
+      </description>
+      <Point>
+        <coordinates>36.925709,-1.190043,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>‎
+      <name>Fonexpress cinemax</name>
+      <Snippet>nyali Road,</Snippet>
+      <description>
+        <![CDATA[<div dir="ltr">Nyali Plaza,nyali Road <br>(+254)20300117<br>(+254)72274000<br>www.fonexpress.net</div>]]>
+      </description>
+      <Point>
+        <coordinates>39.694105,-4.026005,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>‎
+      <name>Fonexpress Centre point (Nakumatt)</name>
+      <Snippet>nyali Road,</Snippet>
+      <description>
+        <![CDATA[<div dir="ltr">Fonexpress Centre point,beach Road <br>(+254)20300117<br>(+254)72274000<br>www.fonexpress.net</div>]]>
+      </description>
+      <Point>
+        <coordinates>39.701364,-4.0413735,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>‎
+      <name>Fonexpress kenenidia</name>
+      <Snippet>odingaoginga road</Snippet>
+      <description>
+        <![CDATA[<div dir="ltr">Kenedia Plaza ,odingaoginga road <br>(+254)20300117<br>(+254)72274000<br>www.fonexpress.net</div>]]>
+      </description>
+      <Point>
+        <coordinates>34.750806,-0.099328,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>‎
+      <name>Fonexpress Eldo Centre</name>
+      <Snippet>Eldo Centre</Snippet>
+      <description>
+        <![CDATA[<div dir="ltr">Eldo Centre ,uganda road <br>(+254)20300117<br>(+254)72274000<br>www.fonexpress.net</div>]]>
+      </description>
+      <Point>
+        <coordinates>35.269148,0.520363,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>‎
+      <name>Fonexpress Eldo Centre</name>
+      <Snippet>Eldo Centre</Snippet>
+      <description>
+        <![CDATA[<div dir="ltr">Eldo Centre ,uganda road <br>(+254)20300117<br>(+254)72274000<br>www.fonexpress.net</div>]]>
+      </description>
+      <Point>
+        <coordinates>35.269148,0.520363,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>‎
+      <name>Fonexpress Holden mall</name>
+      <Snippet>Fonexpress Holden mall</Snippet>
+      <description>
+        <![CDATA[<div dir="ltr">Holden mall ,Kakamega-Webuye Road <br>(+254)20300117<br>(+254)72274000<br>www.fonexpress.net</div>]]>
+      </description>
+      <Point>
+        <coordinates>34.757296,0.291995,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>‎
+      <name>Fonexpress kisii</name>
+      <Snippet>kisii</Snippet>
+      <description>
+        <![CDATA[<div dir="ltr">moi avenue,kisii <br>(+254)20300117<br>(+254)72274000<br>www.fonexpress.net</div>]]>
+      </description>
+      <Point>
+        <coordinates>34.768539,-0.67161,0.000000</coordinates>
+      </Point>
+    </Placemark>
+	 <Placemark>‎
+      <name>Fonexpress mega city</name>
+      <Snippet>kisii</Snippet>
+      <description>
+        <![CDATA[<div dir="ltr"> Nairobi Road-Ondiek Junction<br>(+254)20300117<br>(+254)72274000<br>www.fonexpress.net</div>]]>
+      </description>
+      <Point>
+        <coordinates>34.770685,-0.104284,0.000000</coordinates>
+      </Point>
+    </Placemark>
+		 <Placemark>‎
+      <name>Fonexpress likoni</name>
+      <Snippet>Fonexpress likoni</Snippet>
+      <description>
+        <![CDATA[<div dir="ltr"> Nyerere Avenue, likoni<br>(+254)20300117<br>(+254)72274000<br>www.fonexpress.net</div>]]>
+      </description>
+      <Point>
+        <coordinates>39.666351,-4.07532,0.000000</coordinates>
+      </Point>
+    </Placemark>
+		 <Placemark>‎
+      <name>Fonexpress Oasis </name>
+      <Snippet>Fonexpress Oasis Building</Snippet>
+      <description>
+        <![CDATA[<div dir="ltr">Oasis Building, lamu road<br>(+254)20300117<br>(+254)72274000<br>www.fonexpress.net</div>]]>
+      </description>
+      <Point>
+        <coordinates>39.747452,-3.957421,0.000000</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <name>Fonexpress zuri</name>
+      <Snippet>Fonexpress zuri Building</Snippet>
+      <description>
+        <![CDATA[<div dir="ltr">zuri Place, kenyatta road, kiambu<br>(+254)20300117<br>(+254)72274000<br>www.fonexpress.net</div>]]>
+      </description>
+      <Point>
+        <coordinates>37.004408,-1.124128,0.000000</coordinates>
+      </Point>
+    </Placemark>
+		 <Placemark>‎
+      <name>Fonexpress nanyuki </name>
+      <Snippet>Fonexpress nanyuki</Snippet>
+      <description>
+        <![CDATA[<div dir="ltr">nayuki mall, Meru-Nanyuki Road<br>(+254)20300117<br>(+254)72274000<br>www.fonexpress.net</div>]]>
+      </description>
+      <Point>
+        <coordinates>37.075239,0.010471,0.000000</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
